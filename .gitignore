@@ -16,6 +16,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.secrets.json
+secrets.json
 
 node_modules/

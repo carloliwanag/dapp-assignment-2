@@ -136,3 +136,13 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+
+
+---
+## Assignment Details Requirements:
+
+1) Your ERC-721 Token Name: Universal Star Registry
+2) Your ERC-721 Token Symbol: USR
+3) Version of the Truffle and OpenZeppelin used: Truffle v5.4.21 (core: 5.4.21), OpenZeppelin-Solidity v2.3.0
+4) Your Token Address on the Rinkeby Network: 0x50271842f3148036e246F18d001ee34CB199D9df
